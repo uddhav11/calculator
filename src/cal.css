@@ -1,0 +1,50 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.outer-part{
+    text-align: center;
+    background-color: #c2c2c2;
+    height: 100vh;
+}
+
+.outer-part input{
+    max-width: 500px;
+    margin: 40px;
+    padding: 30px;
+    font-size: 26px;
+    border-radius: 10px;
+    border-color: black;
+    background-color: #bbbaba;
+    color: white;
+    font-weight: bold;
+}
+
+.each{
+    margin: 10px;
+
+    
+}
+
+.each button{
+    margin: 10px;
+    padding: 20px;
+    border-radius: 5px;
+    border-color: black;
+    font-size: 22px;
+    font-weight: bold;
+    color: white;
+    background-color: #212121;
+}
+
+#equalto{
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: green;
+}
+
+#erase{
+    background-color: rgb(179, 1, 1);
+    
+}
